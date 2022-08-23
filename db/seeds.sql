@@ -19,7 +19,7 @@ VALUES ("Sales Manager", 90000, 1),
        ("Application Administrator", 85000, 4);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Jerry", "Smith", 1, NULL),
+VALUES ("Atzel", "Rivas", 1, NULL),
        ("Sally", "Sue", 2, 1),
        ("Bob", "Ross", 3, 1),
        ("Rick", "Sanchez", 4, NULL),
